@@ -1,0 +1,7 @@
+.chart {
+	width: 350px;
+	height: 350px;
+	margin: 0 auto;
+	border-radius: 75px;
+	border: 10px solid #000;
+}
